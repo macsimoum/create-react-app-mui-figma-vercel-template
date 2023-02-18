@@ -12,8 +12,8 @@
 - [Users](https://react-figma-mui-vercel.vercel.app/dashboard/user)
 - [Product](https://create-react-app-mui-figma-vercel-template.vercel.app/dashboard/products)
 - [Blog](https://react-figma-mui-vercel.vercel.app/dashboard/blog)
-- [Login](https://create-react-app-mui-figma-vercel-template.app/login)
-- [Not Found](https://create-react-app-mui-figma-vercel-template.app/404)
+- [Login](https://create-react-app-mui-figma-vercel-template.vercel.app/login)
+- [Not Found](https://create-react-app-mui-figma-vercel-template.vercel.app/404)
 
 ## Getting started
 
